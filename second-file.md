@@ -1,2 +1,2 @@
 Explanations on Git commands  
-[Main page](./readme.md)
+[Link to readme file](./readme.md)
